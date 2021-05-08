@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=acc
+comment1.params=dna
+comment1.target=float\ cgRatio(java.lang.String)
+comment2.params=
+comment2.target=void\ test()
+comment3.params=sr
+comment3.target=void\ processGenes(edu.duke.StorageResource)
+comment4.params=
+comment4.target=void\ testProcessGenes()
+numComments=5
